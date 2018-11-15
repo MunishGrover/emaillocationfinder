@@ -27,5 +27,6 @@ https://www.maxmind.com/en/proxy
 IP geolocation is inherently imprecise. Locations are often near the center of the population. Any location provided by a GeoIP database should not be used to identify a particular address or household.
 
 The python-geoip-geolite2 package includes GeoLite2 data created by MaxMind, available from maxmind.com under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
-#Documentation
+
+# Documentation
  For more information, [check out the documentation](https://pythonhosted.org/python-geoip/) over at Read the Docs.
