@@ -32,4 +32,5 @@ The python-geoip-geolite2 package includes GeoLite2 data created by MaxMind, ava
  For more information, [check out the documentation](https://pythonhosted.org/python-geoip/) over at Read the Docs.
 
 # Output
- ![Alt text](/home/munishgrover/Desktop/Screenshot from 2018-11-15 23-40-21.png)
+ ![screenshot from 2018-11-15 23-40-21](https://user-images.githubusercontent.com/29634363/48574231-ac1db780-e934-11e8-8aca-7f6ac678a505.png)
+
